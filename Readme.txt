@@ -1,1 +1,1 @@
-Here is the slide from CS4443 textbook
+Here are the slides from CS4443 textbook
